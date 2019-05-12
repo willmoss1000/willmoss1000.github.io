@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Find my LinkedIn here: https://www.linkedin.com/in/william-moss-b137885a/
+LinkedIn: https://www.linkedin.com/in/william-moss-b137885a/
+
+[will@wmoss.co.uk](mailto:will@wmoss.co.uk)
