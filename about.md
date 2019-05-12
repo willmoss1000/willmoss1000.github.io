@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-LinkedIn: https://www.linkedin.com/in/william-moss-b137885a/
-
-[will@wmoss.co.uk](mailto:will@wmoss.co.uk)
+[LinkedIn](https://www.linkedin.com/in/william-moss-b137885a/)
+[Email](mailto:will@wmoss.co.uk)
